@@ -23,7 +23,7 @@ Follow these steps to run the project locally on your machine:
 
 ### Prerequisites
 
-- Python 3.x should be installed on your system. You can download Python [here](https://www.python.org/downloads/).
+- Python 3.x
 - Install the required libraries using `pip`:
   pip install streamlit sqlite3
 
@@ -34,6 +34,7 @@ Follow these steps to run the project locally on your machine:
 Clone this repository to your local machine using Git:
 
 git clone https://github.com/AliFathi1325/To-Do_List_Streamlit.git
+
 cd task_manager
 
 2. Run the Application
